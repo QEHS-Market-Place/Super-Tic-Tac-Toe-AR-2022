@@ -3,6 +3,8 @@ Intermediate CS
 
 CS20 Final Project Super Tic Tac Toe
 
+Student Exemplar includes zero player
+
 Bugs:
 - Starting side on 1-player mode does not work correctly
 - Loading from menu freezes the game
